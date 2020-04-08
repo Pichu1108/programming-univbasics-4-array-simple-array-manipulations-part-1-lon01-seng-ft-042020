@@ -1,3 +1,3 @@
-def updated_array(array, string)
+def usign_push(array, string)
   array.push(string)
 end
